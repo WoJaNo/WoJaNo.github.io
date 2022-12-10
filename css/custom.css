@@ -5,24 +5,6 @@
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
 }
-:root {
-  --ichika-color: #39a0eb;
-  --ichika-hover-color: #ECAFFF;
-  --ichika-widget-hover: #CFF0FF;
-  --ichika-font-white: #FDFDFD;
-  --ichika-light-green: #B2FFCA;
-  --ichika-light-purple: #F6B9FF;
-  --ichika-green: #11D991;
-  --ichika-purple: #E764FF;
-  --ichika-light-grey: #F2F2F2;
-  --ichika-card-bg: rgba(255,255,255,0.45);
-  --ichika-emphasis-color: #F7F81A;
-  --ichika-bgblur: blur(10px);
-  --ichika-footer-bg: linear-gradient(to bottom,transparent 0%,rgba(255,255,255,0.7) 40%);
-  --ichika-font-grey: #888888;
-  --ichika-categorycard-bg: linear-gradient(to top,rgba(255,255,255,0),rgba(255,255,255,1))
-}
-
 [data-theme='dark'] {
   --global-bg:black;
   --ichika-color: #213de0;
