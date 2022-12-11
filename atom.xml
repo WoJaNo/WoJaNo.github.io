@@ -33,7 +33,9 @@
     <category term="生活" scheme="http://wojano.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="QQ美化" scheme="http://wojano.github.io/tags/QQ%E7%BE%8E%E5%8C%96/"/>
+    <category term="✨QQ美化" scheme="http://wojano.github.io/tags/%E2%9C%A8QQ%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="💡软件" scheme="http://wojano.github.io/tags/%F0%9F%92%A1%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -54,7 +56,9 @@
     <category term="热爱" scheme="http://wojano.github.io/categories/%E7%83%AD%E7%88%B1/"/>
     
     
-    <category term="影视" scheme="http://wojano.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    <category term="💡软件" scheme="http://wojano.github.io/tags/%F0%9F%92%A1%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="📽️影视" scheme="http://wojano.github.io/tags/%F0%9F%93%BD%EF%B8%8F%E5%BD%B1%E8%A7%86/"/>
     
   </entry>
   
@@ -75,7 +79,9 @@
     <category term="投稿" scheme="http://wojano.github.io/categories/%E6%8A%95%E7%A8%BF/"/>
     
     
-    <category term="恰饭" scheme="http://wojano.github.io/tags/%E6%81%B0%E9%A5%AD/"/>
+    <category term="🍜恰饭" scheme="http://wojano.github.io/tags/%F0%9F%8D%9C%E6%81%B0%E9%A5%AD/"/>
+    
+    <category term="📚学习" scheme="http://wojano.github.io/tags/%F0%9F%93%9A%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -96,7 +102,9 @@
     <category term="日志" scheme="http://wojano.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-    <category term="更新内容" scheme="http://wojano.github.io/tags/%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/"/>
+    <category term="📃更新内容" scheme="http://wojano.github.io/tags/%F0%9F%93%83%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/"/>
+    
+    <category term="✒️日志" scheme="http://wojano.github.io/tags/%E2%9C%92%EF%B8%8F%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
@@ -117,7 +125,9 @@
     <category term="游戏" scheme="http://wojano.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="王者" scheme="http://wojano.github.io/tags/%E7%8E%8B%E8%80%85/"/>
+    <category term="🕹️王者" scheme="http://wojano.github.io/tags/%F0%9F%95%B9%EF%B8%8F%E7%8E%8B%E8%80%85/"/>
+    
+    <category term="🌞生活" scheme="http://wojano.github.io/tags/%F0%9F%8C%9E%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -140,6 +150,8 @@
     
     <category term="教程" scheme="http://wojano.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
+    
+    <category term="📓教程" scheme="http://wojano.github.io/tags/%F0%9F%93%93%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
