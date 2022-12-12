@@ -44,6 +44,29 @@
   --ichika-categorycard-bg:linear-gradient(to top,rgba(0,0,0,0),rgba(0,0,0,0.5))
 }
 
+:root {
+  --ichika-emphasis-color: #6378c4;
+}
+
+/* 公告&欢迎页 */
+.card-announcement {
+  background: transparent ;
+  color:rgb(0, 0, 0);
+  line-height:30px;
+  font-size:16px;
+}
+
+.card-announcement .item-headline span{
+  margin-left:0!important;
+}
+
+.card-announcement span{
+  font-weight:bold;
+  font-size:20px!important;
+  color:var(--ichika-emphasis-color);
+}
+
+
 /* 页脚与头图透明 */
 #footer {
     background: transparent !important;
