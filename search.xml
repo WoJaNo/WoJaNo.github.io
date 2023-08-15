@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TEST</title>
+      <link href="/posts/eeea93b8/"/>
+      <url>/posts/eeea93b8/</url>
+      
+        <content type="html"><![CDATA[<h2 id="翻新后的第一篇测试文章"><a class="markdownIt-Anchor" href="#翻新后的第一篇测试文章"></a> 翻新后的第一篇测试文章</h2><h3 id="front-matter-是-markdown-文件最上方以分隔的区域用于指定个别档案的变数"><a class="markdownIt-Anchor" href="#front-matter-是-markdown-文件最上方以分隔的区域用于指定个别档案的变数"></a> Front-matter 是 markdown 文件最上方以—分隔的区域，用于指定个别档案的变数。</h3><h4 id="page-front-matter-用于页面配置"><a class="markdownIt-Anchor" href="#page-front-matter-用于页面配置"></a> Page Front-matter 用于页面配置</h4><h4 id="post-front-matter-用于文章页配置"><a class="markdownIt-Anchor" href="#post-front-matter-用于文章页配置"></a> Post Front-matter 用于文章页配置</h4><p>写法解释<br />title【必需】页面标题<br />date【必需】页面创建日期<br />type【必需】标籤、分类和友情链接三个页面需要配置<br />updated【可选】页面更新日期<br />description【可选】页面描述<br />keywords【可选】页面关键字<br />comments【可选】显示页面评论模块(默认 true)<br />top_img【可选】页面顶部图片<br />mathjax【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)<br />kates【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)<br />aside【可选】显示侧边栏 (默认 true)<br />aplayer【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置<br />highlight_shrink【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分 班</title>
+      <link href="/posts/1852b783/"/>
+      <url>/posts/1852b783/</url>
+      
+        <content type="html"><![CDATA[<h1 id="分班真正的开始"><a class="markdownIt-Anchor" href="#分班真正的开始"></a> 分班——真正的开始</h1><div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br />明月几时有？把酒问青天。<br />不知天上宫阙，今夕是何年？<br />我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br />起舞弄清影，何似在人间？</p><p>转朱阁，低绮户，照无眠。<br />不应有恨，何事长向别时圆？<br />人有悲欢离合，月有阴晴圆缺，此事古难全。<br />但愿人长久，千里共婵娟。</p></div><h3 id="分別是为了更好的重逢"><a class="markdownIt-Anchor" href="#分別是为了更好的重逢"></a> 分別是为了更好的重逢</h3><p><code>高一26上册</code>的时光是<code>欢乐短暂</code>的，各个学科刚开始都比较简单，为了适应了高中生活。</p><p>但很快，十月居家网课的开始就标志着<code>分別</code>。</p><p>在新年前的某夜，我们被分到了不同的班级。我也来到了<code>高一34</code>。</p><p>在这里，我感觉环境的差别让我不适，还是<code>喜欢从前的感觉</code>。</p><p>班级里的各种人都有，但总找得到让自己<code>如意</code>的。</p><h4 id="愿同学越来越优秀开心"><a class="markdownIt-Anchor" href="#愿同学越来越优秀开心"></a> 愿同学越来越优秀开心。</h4>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 🌞生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这里是更新日志</title>
+      <link href="/posts/b251992a/"/>
+      <url>/posts/b251992a/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是吴某的第2篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第2篇文章"></a> 这是吴某的第②篇文章</h1><h2 id="更新日志"><a class="markdownIt-Anchor" href="#更新日志"></a> 更新日志:</h2><h3 id="在这里将在每次网站改动中记录改动内容"><a class="markdownIt-Anchor" href="#在这里将在每次网站改动中记录改动内容"></a> 在这里将在每次网站改动中记录改动内容</h3><hr /><h2 id="2023-夏-summer"><a class="markdownIt-Anchor" href="#2023-夏-summer"></a> 2023 夏 Summer 🌞</h2><h3 id="6-月-six"><a class="markdownIt-Anchor" href="#6-月-six"></a> 6 月 Six 📆</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>6月的进展</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-6-5</p></div></div><div class='timeline-item-content'><p><strong>网站压缩📷：</strong></p><ol><li>背景图</li><li>文章内图片</li><li>首页预览图</li><li>css js html</li></ol></div></div></div><hr /><h2 id="2022-冬-winter-️"><a class="markdownIt-Anchor" href="#2022-冬-winter-️"></a> 2022 冬 Winter ❄️</h2><h3 id="12-月-twelve"><a class="markdownIt-Anchor" href="#12-月-twelve"></a> 12 月 Twelve 🥶</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>12月的小心思</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-15</p></div></div><div class='timeline-item-content'><p><strong>超级大更新⚙️：</strong></p><ol><li>添加 <strong><code>彩色导航图标</code></strong></li><li>添加 <strong><code>小玩意页面</code></strong></li><li>使用 <strong><code>自定义域名</code></strong></li><li>更换 <strong><code>图床方案</code></strong></li><li>gupl <strong><code>静态压缩</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-11</p></div></div><div class='timeline-item-content'><p><strong>内容更改✒️：</strong></p><ol><li>分类页 <strong><code>自定义图片</code></strong></li><li>标签页 <strong><code>增加emoji</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-10</p></div></div><div class='timeline-item-content'><p><strong>许多魔改🧙🏼‍♂：</strong></p><ol><li>添加 <strong><code>樱花特效背景</code></strong> Sakura</li><li>优化 <strong><code>背景线条特效</code></strong></li><li>魔改 <strong><code>首页公告栏</code></strong></li><li>魔改 <strong><code>归档分类页</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-9</p></div></div><div class='timeline-item-content'><p><strong>内容更改✒️：</strong></p><ol><li>删除 <strong><code>部分字体</code></strong></li><li>引入 <strong><code>自定义阿里iconfont</code></strong></li><li>进行本地 <strong><code>联系卡片修改</code></strong> 并 <strong><code>引入iconfont</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-8</p></div></div><div class='timeline-item-content'><p><strong>巴哥修复🐞：</strong></p><ol><li>修复 <strong><code>aplayer加载歌曲</code></strong> 问题</li><li>修复 <strong><code>阿里图标缺失</code></strong> 报错</li><li>写入 <strong><code>音乐页面内容</code></strong> 店长网易云歌单</li></ol><p>***第一次尝试外挂标签的写法（功德 +1）***🥰</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-7</p></div></div><div class='timeline-item-content'><p><strong>插件添加⚙️：</strong></p><ol><li>添加 <strong><code>冒泡背景</code></strong></li><li>添加 <strong><code>外挂标签插件（anzhiy）</code></strong></li><li>添加 <strong><code>自定义字体（ZhuZiAWan2）</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-12-6</p></div></div><div class='timeline-item-content'><p><strong>插件添加⚙️：</strong></p><ol><li><em>突然想起来自己还有一个博客:)</em></li><li>替换之前的 <strong><code>加载动画</code></strong></li><li>进行 <strong><code>页面样式魔改（亚克力）</code></strong></li><li>添加 <strong><code>侧边栏电子钟</code></strong></li></ol></div></div></div><hr /><h3 id="11-月-eleven-️"><a class="markdownIt-Anchor" href="#11-月-eleven-️"></a> 11 月 Eleven ☃️</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>11月的伟大作为</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-17</p></div></div><div class='timeline-item-content'><p><strong>内容更改✒️：</strong></p><ol><li>给网站增添 <strong><code>加载动画</code></strong></li><li>给已写文章 <strong><code>添加自定义封面</code></strong></li><li>图片加载由 <strong><code>本地转为图床（快了不少）</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-16</p></div></div><div class='timeline-item-content'><p><strong>插件添加⚙️：</strong></p><ol><li>添加 <strong><code>wowjs加载动画</code></strong></li><li>进行 <strong><code>导航栏魔改</code></strong></li><li>添加 <strong><code>留言板</code></strong></li></ol><p><strong>网站设置🏠：</strong></p><ol><li>解决网站内 <strong><code>链接不对照问题</code></strong></li><li>网站名字 更改为 <strong><code>Nuo's🏠House</code></strong></li><li>预计将会添加 <strong><code>自定义域名（期待吧）</code></strong></li><li>不久首页导航栏各项也会进行添加，不再是空白页面</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-15</p></div></div><div class='timeline-item-content'><p><strong>插件添加⚙️：</strong></p><ol><li>添加首页 <strong><code>黑夜霓虹灯</code></strong>（仅夜间模式可见）</li><li>添加 <strong><code>2d看板娘</code></strong>（电脑端可见）</li><li>添加首页 <strong><code>文章磁贴</code></strong></li><li>添加首页 <strong><code>置顶文章轮播图</code></strong></li><li>进行 <strong><code>网站页脚魔改</code></strong></li><li>添加 <strong><code>分类项</code></strong></li></ol><p><strong>网站设置🏠：</strong></p><ol><li>修改了 <strong><code>网站图标</code></strong></li><li>为网站 <strong><code>添加背景（好看）</code></strong></li><li>网站第一次 <strong><code>在github上部署</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-14</p></div></div><div class='timeline-item-content'><ol><li>对网站 <strong><code>基本插件进行安装</code></strong></li><li>有了 <strong><code>属于它构架</code></strong></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-13</p></div></div><div class='timeline-item-content'><ol><li>该网站建立 <strong>by-WJN</strong></li><li>建立初衷，只是在家上网课憋的无聊qwq</li></ol></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 📃更新内容 </tag>
+            
+            <tag> ✒️日志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>QQ精简嵌入模块版v8.9.15</title>
+      <link href="/posts/c0016f87/"/>
+      <url>/posts/c0016f87/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是吴某的第6篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第6篇文章"></a> 这是吴某的第⑥篇文章</h2><hr /><h2 id="11软件版本89159425"><a class="markdownIt-Anchor" href="#11软件版本89159425"></a> 1.1【软件版本】：8.9.15.9425</h2><h4 id="版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"><a class="markdownIt-Anchor" href="#版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"></a> 【版本说明】：精简了虚幻引擎4，内置了QA,小彩豆，QTool，XAutoDaily，省电模块（未适配）。</h4><h4 id="模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"><a class="markdownIt-Anchor" href="#模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"></a> 模块具有<code>不稳定性</code>，可能导致部分登陆无法跳转QQ，也存在<code>冻结</code>的情况</h4><h4 id="ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"><a class="markdownIt-Anchor" href="#ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"></a> ps：初次安装需卸载官方版本，初次使用qq出现黑屏白屏属于正常现象，之后使用一般不会出现。</h4><h4 id="省点模块最新版未适配8915等待作者适配介意可继续使用8913"><a class="markdownIt-Anchor" href="#省点模块最新版未适配8915等待作者适配介意可继续使用8913"></a> 省点模块最新版未适配8.9.15（等待作者适配），介意可继续使用8.9.13。</h4><hr /><h2 id="21-详细模块内容"><a class="markdownIt-Anchor" href="#21-详细模块内容"></a> 2.1 详细模块内容</h2><h3 id="22-xautodaily"><a class="markdownIt-Anchor" href="#22-xautodaily"></a> 2.2  XAutoDaily</h3><blockquote><p><strong>XAutoDaily是一款更偏向QQ自动化打卡方面的模块。</strong></p></blockquote><ul><li><strong>模块功能如下</strong></li></ul><table><thead><tr><th style="text-align:left">功能</th><th style="text-align:left">介绍</th></tr></thead><tbody><tr><td style="text-align:left">自动签到</td><td style="text-align:left">群签到，早晚卡（可自选群聊）</td></tr><tr><td style="text-align:left">QQ会员签到</td><td style="text-align:left">会员签到加速</td></tr><tr><td style="text-align:left">QQ音乐绿钻签到</td><td style="text-align:left">绿钻签到</td></tr><tr><td style="text-align:left">腾讯视频会员签到</td><td style="text-align:left">腾讯视频签到</td></tr><tr><td style="text-align:left">好友自动续火</td><td style="text-align:left">定时发送好友信息（可自选好友）</td></tr><tr><td style="text-align:left">QQ空间点赞</td><td style="text-align:left">第一时间给好友点赞（可自选好友）</td></tr><tr><td style="text-align:left">QQ名片自动赞</td><td style="text-align:left">定时给好友名片点赞（可自选好友）</td></tr><tr><td style="text-align:left">好友字符抽卡</td><td style="text-align:left">每日抽卡（可自选好友）</td></tr></tbody></table><h3 id="23-qaqauxiliary"><a class="markdownIt-Anchor" href="#23-qaqauxiliary"></a> 2.3 QA(QAuxiliary)</h3><blockquote><p><strong>QA是一款多功能辅助模块，页面简洁功能多样</strong></p></blockquote><table><thead><tr><th style="text-align:left">净化设置</th><th style="text-align:center">辅助功能</th></tr></thead><tbody><tr><td style="text-align:left">主页</td><td style="text-align:center">聊天消息</td></tr><tr><td style="text-align:left">侧滑栏</td><td style="text-align:center">文件储存</td></tr><tr><td style="text-align:left">聊天界面</td><td style="text-align:center">好友资料卡</td></tr><tr><td style="text-align:left">群聊</td><td style="text-align:center">通知设置</td></tr><tr><td style="text-align:left">资料卡</td><td style="text-align:center">实验娱乐功能（不稳定）</td></tr></tbody></table><h3 id="24-小彩豆与qtool"><a class="markdownIt-Anchor" href="#24-小彩豆与qtool"></a> 2.4 小彩豆与QTool</h3><blockquote><p><strong>这两个模块功能相似所以放在一起，与QA相比可以使用Java类脚本，和自动抢红包类（易冻结）</strong></p></blockquote><ul><li><strong>详情如图</strong></li></ul><p>小彩豆:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac0124e3.jpg" alt="mmexport1668658951363.jpg" /></p><p>QTool:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac04c855.jpg" alt="mmexport1668658957421.jpg" /></p><h2 id="31结尾说明"><a class="markdownIt-Anchor" href="#31结尾说明"></a> 3.1结尾说明</h2><ul><li><h4 id="开源模块绿色安全-以上只为功能部分说明详情请以软件为主"><a class="markdownIt-Anchor" href="#开源模块绿色安全-以上只为功能部分说明详情请以软件为主"></a> 开源模块，绿色安全。以上只为功能部分说明详情请以软件为主。</h4></li><li><h4 id="下载链接"><a class="markdownIt-Anchor" href="#下载链接"></a> 下载链接:</h4></li></ul><blockquote><p><a href="https://pan.quark.cn/s/507c01ed50bf">https://pan.quark.cn/s/507c01ed50bf</a></p></blockquote><h4 id="仅供分享部分问题联系站长解决联系方式点我联系站长"><a class="markdownIt-Anchor" href="#仅供分享部分问题联系站长解决联系方式点我联系站长"></a> 仅供分享，部分问题联系站长解决，联系方式：<a href="https://love.woojano.top/about/">点我联系站长</a></h4><hr />]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ✨QQ美化 </tag>
+            
+            <tag> 💡软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天空影视全网免费看</title>
+      <link href="/posts/5e5bc735/"/>
+      <url>/posts/5e5bc735/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是吴某的第5篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第5篇文章"></a> 这是吴某的第⑤篇文章</h2><hr /><h1 id="全网影视免费看-天空影视"><a class="markdownIt-Anchor" href="#全网影视免费看-天空影视"></a> 全网影视免费看-天空影视</h1><ul><li><h2 id="11-软件说明"><a class="markdownIt-Anchor" href="#11-软件说明"></a> 1.1 软件说明</h2><ul><li><h3 id="12版本说明"><a class="markdownIt-Anchor" href="#12版本说明"></a> 1.2【版本说明】：</h3></li><li><h4 id="软件版本v41-有最新版会在此章继续更新"><a class="markdownIt-Anchor" href="#软件版本v41-有最新版会在此章继续更新"></a> 软件版本v4.1 有最新版，会在此章继续更新。</h4></li></ul></li><li><h3 id="13使用须知"><a class="markdownIt-Anchor" href="#13使用须知"></a> 1.3【使用须知】：</h3><ul><li><h4 id="无脑安装即可如有安全提示即为误报可跳过"><a class="markdownIt-Anchor" href="#无脑安装即可如有安全提示即为误报可跳过"></a> 无脑安装即可，如有安全提示，即为误报可跳过。</h4></li><li><h4 id="软件跟平时所使用的影视app相同但请勿相信软件内的广告仅供分享后果自负"><a class="markdownIt-Anchor" href="#软件跟平时所使用的影视app相同但请勿相信软件内的广告仅供分享后果自负"></a> 软件跟平时所使用的影视app相同，但请勿相信软件内的广告，仅供分享，后果自负。</h4></li></ul></li><li><h3 id="14功能介绍"><a class="markdownIt-Anchor" href="#14功能介绍"></a> 1.4【功能介绍】：</h3></li></ul><table><thead><tr><th style="text-align:left">功能</th><th style="text-align:left">详细</th></tr></thead><tbody><tr><td style="text-align:left">高清蓝光</td><td style="text-align:left">貌似只支持最高画质，无法切换</td></tr><tr><td style="text-align:left">缓存快</td><td style="text-align:left">在正常网络下，几乎不卡顿</td></tr><tr><td style="text-align:left">免广告</td><td style="text-align:left">无需观看广告</td></tr><tr><td style="text-align:left">免会员</td><td style="text-align:left">无需充值即可观看众多影片</td></tr><tr><td style="text-align:left">无需登陆</td><td style="text-align:left">仅观看可不登录，评论等需注册登陆</td></tr><tr><td style="text-align:left">含弹幕</td><td style="text-align:left">看看别人的看法</td></tr><tr><td style="text-align:left">可长按加速</td><td style="text-align:left">原汁原味</td></tr><tr><td style="text-align:left">视频源多</td><td style="text-align:left">可更换不同源，避免视频无法加载</td></tr><tr><td style="text-align:left">新电影抢先</td><td style="text-align:left">各类电影院资源会有抢版（现场版）</td></tr></tbody></table><ul><li><h3 id="15效果图"><a class="markdownIt-Anchor" href="#15效果图"></a> 1.5【效果图】</h3></li></ul><p><img src="https://bu.dusays.com/2022/11/18/63770e790a4c0.jpg" alt="Screenshot_20221118_120615.jpg" /><br /><img src="https://bu.dusays.com/2022/11/18/63770e790a470.jpg" alt="Screenshot_20221118_120627.jpg" /></p><hr /><ul><li><h2 id="21-软件下载"><a class="markdownIt-Anchor" href="#21-软件下载"></a> 2.1 软件下载</h2></li></ul><blockquote><p><strong>下载链接:</strong><br /><strong><a href="https://xyzys.lanzout.com/ilTTx0hzruhc">https://xyzys.lanzout.com/ilTTx0hzruhc</a></strong><br /><strong>密码:1mae</strong></p></blockquote><hr />]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 💡软件 </tag>
+            
+            <tag> 📽️影视 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我与我的安卓手表</title>
+      <link href="/posts/73e14eca/"/>
+      <url>/posts/73e14eca/</url>
+      
+        <content type="html"><![CDATA[<p>玩机有风险，数据无价，请慎重选择。</p><h1 id="1-我的设备"><a class="markdownIt-Anchor" href="#1-我的设备"></a> 1. 我的设备</h1><div class='checkbox'><input type="radio" />            <p>小米手表 MiWatch</p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>OPPOWatch3(标准版) OW3</p>            </div> using...<div class="reference-source"><span class="hidden-anchor" id="referfrom_小米手表"></span><a class="reference-anchor" href="#referto_小米手表">小米手表<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="javascript:void">https://detail.zol.com.cn/1299/1298301/param.shtml</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_OPPOWatch3(标准版)"></span><a class="reference-anchor" href="#referto_OPPOWatch3(标准版)">OPPOWatch3(标准版)<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="javascript:void">https://detail.zol.com.cn/1425/1424037/param.shtml</a></div><p>米表碎屏之后就，无法正常使用了。<br />OW3就把保护壳也买了🤕</p><h1 id="2-adb的使用"><a class="markdownIt-Anchor" href="#2-adb的使用"></a> 2. adb的使用</h1><h2 id="21-工具箱安装"><a class="markdownIt-Anchor" href="#21-工具箱安装"></a> 2.1 工具箱安装</h2><h3 id="下载地址"><a class="markdownIt-Anchor" href="#下载地址"></a> 下载地址</h3><hr /><h2 id="22-功能"><a class="markdownIt-Anchor" href="#22-功能"></a> 2.2 功能</h2><h3 id="221-安装应用"><a class="markdownIt-Anchor" href="#221-安装应用"></a> 2.2.1 安装应用</h3><h3 id="222-传输文件"><a class="markdownIt-Anchor" href="#222-传输文件"></a> 2.2.2 传输文件</h3><h3 id="223-屏幕dpi修改"><a class="markdownIt-Anchor" href="#223-屏幕dpi修改"></a> 2.2.3 屏幕dpi修改</h3><h3 id="224-输入法激活"><a class="markdownIt-Anchor" href="#224-输入法激活"></a> 2.2.4 输入法激活</h3><hr /><h2 id="23-推荐应用"><a class="markdownIt-Anchor" href="#23-推荐应用"></a> 2.3 推荐应用</h2><h3 id="231-日常休闲"><a class="markdownIt-Anchor" href="#231-日常休闲"></a> 2.3.1 日常休闲</h3><h3 id="232-娱乐放松"><a class="markdownIt-Anchor" href="#232-娱乐放松"></a> 2.3.2 娱乐放松</h3><h3 id="233-小型游戏"><a class="markdownIt-Anchor" href="#233-小型游戏"></a> 2.3.3 小型游戏</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 📓教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>名著阅读（初中进）</title>
+      <link href="/posts/f4938785/"/>
+      <url>/posts/f4938785/</url>
+      
+        <content type="html"><![CDATA[<h1 id="恰饭篇"><a class="markdownIt-Anchor" href="#恰饭篇"></a> 恰饭篇🍜</h1><hr /><h2 id="名著阅读"><a class="markdownIt-Anchor" href="#名著阅读"></a> 名著阅读📚</h2><h4 id="或许这是最让人头疼的一节事情自己活了这么多年一本名著都没读透过-综合素质评价还要用看着别人都情愿花二三十去找人做自己又为自己的钱包担心"><a class="markdownIt-Anchor" href="#或许这是最让人头疼的一节事情自己活了这么多年一本名著都没读透过-综合素质评价还要用看着别人都情愿花二三十去找人做自己又为自己的钱包担心"></a> 或许这是最让人头疼的一节事情，自己活了这么多年，一本名著都没读透过。综合素质评价还要用，看着别人都情愿花二三十去找人做，自己又为自己的钱包担心。💔</h4><h4 id="到头想想为了自己远大的理想这些钱还是值得的"><a class="markdownIt-Anchor" href="#到头想想为了自己远大的理想这些钱还是值得的"></a> 到头想想，为了自己远大的理想这些钱还是值得的。</h4><hr /><h4 id="那该怎么解决自己心中的焦虑呢"><a class="markdownIt-Anchor" href="#那该怎么解决自己心中的焦虑呢"></a> 那该怎么解决自己心中的焦虑呢？🤨❓</h4><h4 id="因此站长给大家推荐自营的代做店doge"><a class="markdownIt-Anchor" href="#因此站长给大家推荐自营的代做店doge"></a> 因此站长给大家推荐自营的代做店（doge）</h4><ul><li><h4 id="诚信"><a class="markdownIt-Anchor" href="#诚信"></a> 诚信</h4></li><li><h4 id="低价"><a class="markdownIt-Anchor" href="#低价"></a> 低价</h4></li><li><h4 id="纯手工无污害"><a class="markdownIt-Anchor" href="#纯手工无污害"></a> 纯手工无污害</h4></li><li><h4 id="每本90分"><a class="markdownIt-Anchor" href="#每本90分"></a> 每本90+分</h4></li></ul><h2 id="做不到以上全款退"><a class="markdownIt-Anchor" href="#做不到以上全款退"></a> 做不到以上全款退</h2><hr /><h2 id=""><a class="markdownIt-Anchor" href="#"></a> 💰💰💰</h2><table><thead><tr><th style="text-align:left">量</th><th style="text-align:left">价</th></tr></thead><tbody><tr><td style="text-align:left">一本</td><td style="text-align:left">12￥</td></tr><tr><td style="text-align:left">两本</td><td style="text-align:left">20￥</td></tr><tr><td style="text-align:left">单题库</td><td style="text-align:left">2.5￥</td></tr></tbody></table><h2 id="支持书本"><a class="markdownIt-Anchor" href="#支持书本"></a> 支持书本：</h2><table><thead><tr><th style="text-align:left"></th><th style="text-align:left"></th></tr></thead><tbody><tr><td style="text-align:left">艾青诗选</td><td style="text-align:left">水浒传</td></tr><tr><td style="text-align:left">红星照耀中国</td><td style="text-align:left">昆虫记</td></tr><tr><td style="text-align:left">骆驼祥子</td><td style="text-align:left">简爱</td></tr><tr><td style="text-align:left">儒林外史</td><td style="text-align:left">健康知识</td></tr><tr><td style="text-align:left">西游记</td><td style="text-align:left">朝花夕拾</td></tr></tbody></table><blockquote><p>以上表格没有的即为不能帮做，若有题库可<a href="https://love.woojano.top/about/"><em><strong>联系站长</strong></em></a>。</p></blockquote><h6 id="据说找关系的有打折呢"><a class="markdownIt-Anchor" href="#据说找关系的有打折呢"></a> 据说找关系的有打折呢</h6><hr /><h2 id="站长老板"><a class="markdownIt-Anchor" href="#站长老板"></a> ↓↓↓站长老板💖; ↓↓↓</h2><h3 id="此处有图片耐心等待加载"><a class="markdownIt-Anchor" href="#此处有图片耐心等待加载"></a> 此处有图片耐心等待加载…</h3><p><img src="https://bu.dusays.com/2022/12/07/639051f5c0d4b.jpg" alt="微信图片_20221207164203.jpg" /></p><h4 id="添加备注来意"><a class="markdownIt-Anchor" href="#添加备注来意"></a> <strong>添加备注来意</strong></h4><h4 id="添加备注来意-2"><a class="markdownIt-Anchor" href="#添加备注来意-2"></a> <strong>添加备注来意</strong></h4><h4 id="添加备注来意-3"><a class="markdownIt-Anchor" href="#添加备注来意-3"></a> <strong>添加备注来意</strong></h4><h3 id="有事就找ta吧"><a class="markdownIt-Anchor" href="#有事就找ta吧"></a> 有事就找TA吧👀</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 🍜恰饭 </tag>
+            
+            <tag> 📚学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>站长的p话</title>
+      <link href="/posts/66f05020/"/>
+      <url>/posts/66f05020/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是吴某的第1篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第1篇文章"></a> 这是吴某的第①篇文章</h2><hr /><h2 id="站长的个性说明"><a class="markdownIt-Anchor" href="#站长的个性说明"></a> 站长的个性说明✍</h2><h3 id="站长今年还年轻芳龄十五-网站的文章不会写太多无聊的时候会来浅浅地更新一下"><a class="markdownIt-Anchor" href="#站长今年还年轻芳龄十五-网站的文章不会写太多无聊的时候会来浅浅地更新一下"></a> 站长今年还年轻，芳龄十五。网站的文章不会写太多，无聊的时候会来浅浅地更新一下。</h3><h4 id="喜欢玩王者希望有大佬可以带带我"><a class="markdownIt-Anchor" href="#喜欢玩王者希望有大佬可以带带我"></a> 喜欢玩王者，希望有大佬可以带带我。😍</h4><p><img src="https://bu.dusays.com/2022/11/18/6376f517677bb.jpg" alt="Screenshot_20221118_105743_com.tencent.tmgp.sgame.jpg" /></p><hr /><h2 id="如果感觉有不错的话题或着什么想要分享的联系站长评论功能会在后续添加"><a class="markdownIt-Anchor" href="#如果感觉有不错的话题或着什么想要分享的联系站长评论功能会在后续添加"></a> 如果感觉有不错的话题或着什么想要分享的联系站长，评论功能会在后续添加。</h2><h2 id="顺便打一个小广告"><a class="markdownIt-Anchor" href="#顺便打一个小广告"></a> 顺便打一个小广告🧾：</h2><p>感觉王者拿标难的，可以+站长，<br />改低分战区。<br />仅限星期一<br />0.5元/位</p><p><a href="https://wojano.github.io/about/"><strong>点我联系站长</strong></a></p><hr />]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 🌞生活 </tag>
+            
+            <tag> 🕹️王者 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
