@@ -267,6 +267,7 @@ function doStuff() {
         ap.list.remove(0);
         ap.lrc.hide();
         ap.setMode("normal");
+        ap.volume(0.7, true);
         document.getElementsByClassName("aplayer-icon-menu")[0].click()
         if(localStorage.getItem("musicIndex")!=null){
             musicIndex = localStorage.getItem("musicIndex");
