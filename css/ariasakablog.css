@@ -3651,7 +3651,7 @@ transform: translateY(5px);}
   }
   
   .author-content-item.map {
-    background: url(https://bu.dusays.com/2022/11/24/637f581d78d8b.png) no-repeat center;
+    background: url(https://bu.dusays.com/2023/08/17/64dcfd1374a26.png) no-repeat center;
     min-height: 160px;
     max-height: 400px;
     position: relative;
@@ -3662,7 +3662,7 @@ transform: translateY(5px);}
     transition: 1s ease-in-out;
   }
   [data-theme="dark"] .author-content-item.map {
-    background: url(https://bu.dusays.com/2022/11/30/63870ad13878f.png) no-repeat center;
+    background: url(https://bu.dusays.com/2023/08/17/64dcfd1321040.png) no-repeat center;
     background-size: 100%;
   }
   
@@ -3962,7 +3962,7 @@ transform: translateY(5px);}
     transition: 2s ease-in-out;
   }
   .author-content-item.game-mc {
-    background: url(https://bu.dusays.com/2022/09/01/63103a565d6b3.webp) no-repeat top;
+    background: url(https://bu.dusays.com/2023/08/17/64dcffd34acb3.webp) no-repeat top;
     background-size: cover;
     min-height: 300px;
     overflow: hidden;
@@ -4001,7 +4001,7 @@ transform: translateY(5px);}
   
   .author-content-item.historical-drama {
     width: 39%;
-    background: url(https://bu.dusays.com/2022/08/30/630d6d56c83eb.webp) no-repeat top;
+    background: url(https://bu.dusays.com/2023/08/17/64dd015198381.webp) no-repeat top;
     background-size: cover;
     min-height: 300px;
     overflow: hidden;
@@ -4018,7 +4018,7 @@ transform: translateY(5px);}
   }
   
   .author-content-item.like-technology {
-    background: url(https://image.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp) no-repeat;
+    background: url(https://bu.dusays.com/2023/08/17/64dd022a41943.jpg) no-repeat;
     background-size: cover;
     min-height: 230px;
     color: var(--anzhiyu-white);
@@ -4807,7 +4807,7 @@ transform: translateY(5px);}
     content: '';
     left:0;
     top:0;
-    background-image: url(https://bu.dusays.com/2022/11/24/637f5cdc3a1e2.jpg);
+    background-image: url(https://bu.dusays.com/2023/08/17/64dcff4aed3c0.png);
     opacity: 0.3;
     background-repeat: no-repeat;
     /* 背景图像大小 */
