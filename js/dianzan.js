@@ -32,9 +32,9 @@
 //         User
 //     } = AV;
 //     AV.init({
-//         appId: "IvW3T1NjMoh7OmKEdAz1tM0o-gzGzoHsz",
-//         appKey: "vG8s9ukVO5bgozEHzR923dew",
-//         serverURL: "https://ivw3t1nj.lc-cn-n1-shared.com"
+//         appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
+//         appKey: "ryRnFHIiyIihlROCGmUcw9mE",
+//         serverURL: "https://pqrqnznm.lc-cn-n1-shared.com"
 //     });
 //     var dianzans = [];
 //     var hrefs = [];
@@ -161,9 +161,9 @@ loadDianzan=(function () {
         User
     } = AV;
     AV.init({
-        appId: "IvW3T1NjMoh7OmKEdAz1tM0o-gzGzoHsz",
-        appKey: "vG8s9ukVO5bgozEHzR923dew",
-        serverURL: "https://ivw3t1nj.lc-cn-n1-shared.com"
+        appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
+        appKey: "ryRnFHIiyIihlROCGmUcw9mE",
+        serverURL: "https://pqrqnznm.lc-cn-n1-shared.com"
     });
     var dianzans = [];
     var hrefs = [];

@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://woojano.top/movies/index.html</loc>
+    
+    <lastmod>2023-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://woojano.top/othersite/index.html</loc>
+    
+    <lastmod>2023-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://woojano.top/links/index.html</loc>
     
     <lastmod>2023-08-17</lastmod>
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://woojano.top/manifest.json</loc>
+    <loc>https://woojano.top/license/index.html</loc>
     
     <lastmod>2023-08-17</lastmod>
     
@@ -31,7 +49,16 @@
   <url>
     <loc>https://woojano.top/speaks/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://woojano.top/manifest.json</loc>
+    
+    <lastmod>2023-08-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,34 +110,7 @@
   </url>
   
   <url>
-    <loc>https://woojano.top/othersite/index.html</loc>
-    
-    <lastmod>2023-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://woojano.top/muyu/index.html</loc>
-    
-    <lastmod>2023-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://woojano.top/musics/index.html</loc>
-    
-    <lastmod>2023-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://woojano.top/license/index.html</loc>
     
     <lastmod>2023-08-12</lastmod>
     
@@ -277,7 +277,7 @@
   </url>
   
   <url>
-    <loc>https://woojano.top/tags/%E2%9C%A8QQ%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://woojano.top/tags/%F0%9F%93%BD%EF%B8%8F%E5%BD%B1%E8%A7%86/</loc>
     <lastmod>2023-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -291,7 +291,7 @@
   </url>
   
   <url>
-    <loc>https://woojano.top/tags/%F0%9F%93%BD%EF%B8%8F%E5%BD%B1%E8%A7%86/</loc>
+    <loc>https://woojano.top/tags/%E2%9C%A8QQ%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2023-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
