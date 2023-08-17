@@ -1,8 +1,8 @@
-
+//bbtalkLunboer v2.0 By Ariasaka
 AV.init({
     appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
     appKey: "ryRnFHIiyIihlROCGmUcw9mE",
-    serverURL: "https://pqrqnznm.lc-cn-n1-shared.com"
+    serverURL: "pqrqnznm.lc-cn-n1-ayaqc.com", //改成自己的，在设置->域名绑定
 });
 function lunbo(){
     var speaks=[];
@@ -24,7 +24,7 @@ Date.prototype.Format = function (fmt) {
     }
 query.find().then((talks) => {
     dat=new Date()
-    for(i=talks.length-1;i>=talks.length-31;i--){
+    for(i=talks.length;i>=talks.length-31;i--){
         var usedTime = Date.parse(dat) - Date.parse(talks[i]["createdAt"]);
         var days = Math.floor(usedTime / (24 * 3600 * 1000));
         var leave1 = usedTime % (24 * 3600 * 1000);  
@@ -46,18 +46,18 @@ query.find().then((talks) => {
         }
     }
     document.querySelector(".shuoshuo").innerHTML=""
-    for(i=0;i<speaks.length;i++){
+    for(i=1;i<speaks.length;i++){
         var ch=document.createElement("div");
         ch.className="swiper-slide bbtalks";
         ch.innerHTML=speaks[i];
         document.querySelector(".shuoshuo").appendChild(ch)
     }
-    var fxxkccf = new Swiper("#speaks", {
+    var fxxkccf = new Swiper("#speaks-content", {
         loop: true,
         direction: "vertical",
         autoplay: {
             delay: 5000,
-            disableOnInteraction: false,
+            disableOnInteraction: false, //暴戻语言 禁赛三年行为[doge]
         },
         mousewheel:true,
     })

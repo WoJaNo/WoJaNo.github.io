@@ -11,6 +11,13 @@ function doStuff() {
     if(flag){
         ap.list.add([
             {
+            name: "防止不加载第一首 爱歌 的歌词",
+            artist: "0",
+            url: "0",
+            cover: "0",
+            lrc: "0",
+                },
+            {
             name: "I Really Want to Stay at Your House",
             artist: "Cyberpunk",
             url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/I%20Really%20Want%20to%20Stay%20at%20Your%20House.mp3",
