@@ -5,7 +5,7 @@ $.ajax({
     type: 'get',
     url: 'https://apis.map.qq.com/ws/location/v1/ip',
     data: {
-        key: 'T3EBZ-TJ7LI-YRBG2-5ZLUR-KD3OS-U6BJO',
+        key: 'JNOBZ-W35KF-CYJJL-JGZNY-BT3VQ-BXFM7',
         output: 'jsonp',
     },
     dataType: 'jsonp',
@@ -69,10 +69,13 @@ $.ajax({
                             posdesc = "讲段相声吧。";
                             break;
                         case "重庆市":
-                            posdesc = "老乡！！！"
+                            posdesc = "听说辣妹很多！"
                             break;
                         case "河北省":
                             posdesc = "山势巍巍成壁垒，天下雄关。铁马金戈由此向，无限江山。";
+                            break;
+                        case "河南省":
+                            posdesc = "老乡啦~ 记得请我吃烩面啊！";
                             break;
                         case "山西省":
                             posdesc = "展开坐具长三尺，已占山河五百余。";
@@ -194,7 +197,7 @@ $.ajax({
         
             document.getElementsByClassName("announcement_content")[0].innerHTML =
                 `欢迎来自<span>${pos}</span>的小伙伴，${timeChange}<br>
-        你距离Ariasaka约有<span>${dist}</span>公里，${posdesc}
+        你距离Nuonuo约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
         本网站的Twikoo评论系统使用<a href="https://cravatar.cn">Cravatar</a>头像系统，请自行绑定邮箱配置
