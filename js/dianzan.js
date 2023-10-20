@@ -161,9 +161,9 @@ loadDianzan=(function () {
         User
     } = AV;
     AV.init({
-        appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
-        appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
-        serverURL: "http://bbtalk.woojano.top/"
+        appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
+        appKey: "ryRnFHIiyIihlROCGmUcw9mE",
+        serverURL: "https://pqrqnznm.lc-cn-n1-shared.com"
     });
     var dianzans = [];
     var hrefs = [];

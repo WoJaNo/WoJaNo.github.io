@@ -1,8 +1,8 @@
 //bbtalkLunboer v2.0 By Ariasaka
 AV.init({
-    appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
-    appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
-    serverURL: "http://bbtalk.woojano.top/", //改成自己的，在设置->域名绑定
+    appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
+    appKey: "ryRnFHIiyIihlROCGmUcw9mE",
+    serverURL: "https://pqrqnznm.lc-cn-n1-shared.com", //改成自己的，在设置->域名绑定
 });
 function lunbo(){
     var speaks=[];

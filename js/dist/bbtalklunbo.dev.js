@@ -7,9 +7,9 @@ var _AV = AV,
     Query = _AV.Query,
     User = _AV.User;
 AV.init({
-  appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
-  appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
-  serverURL: "http://bbtalk.woojano.top/"
+  appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
+  appKey: "ryRnFHIiyIihlROCGmUcw9mE",
+  serverURL: "https://pqrqnznm.lc-cn-n1-shared.com"
 });
 var speaks = [];
 var query = new AV.Query('content');
