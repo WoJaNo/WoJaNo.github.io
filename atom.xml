@@ -6,7 +6,7 @@
   <link href="https://woojano.top/atom.xml" rel="self"/>
   
   <link href="https://woojano.top/"/>
-  <updated>2023-02-06T10:48:40.000Z</updated>
+  <updated>2023-10-20T07:24:00.000Z</updated>
   <id>https://woojano.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Esp8266的第一次体验</title>
+    <link href="https://woojano.top/posts/73e14eca/"/>
+    <id>https://woojano.top/posts/73e14eca/</id>
+    <published>2023-10-20T07:24:00.000Z</published>
+    <updated>2023-10-20T07:24:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="esp8266是什么有什么用"><a class="markdownIt-Anchor" href="#esp8266是什么有什么用"></a> Esp8266是什么？有什么用？</h2>]]></content>
+    
+    
+    <summary type="html">ESP8266是一款物联网WiFi芯片，基于ESP8266可以开发物联网串口WiFi模块</summary>
+    
+    
+    
+    <category term="教程" scheme="https://woojano.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="📓教程" scheme="https://woojano.top/tags/%F0%9F%93%93%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>TEST</title>
@@ -134,7 +155,7 @@
     <published>2022-11-13T07:24:00.000Z</published>
     <updated>2022-11-13T07:24:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>玩机有风险，数据无价，请慎重选择。</p><h1 id="1-我的设备"><a class="markdownIt-Anchor" href="#1-我的设备"></a> 1. 我的设备</h1><div class='checkbox'><input type="radio" />            <p>小米手表 MiWatch</p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>OPPOWatch3(标准版) OW3</p>            </div> using...<div class="reference-source"><span class="hidden-anchor" id="referfrom_小米手表"></span><a class="reference-anchor" href="#referto_小米手表">小米手表<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="javascript:void">https://detail.zol.com.cn/1299/1298301/param.shtml</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_OPPOWatch3(标准版)"></span><a class="reference-anchor" href="#referto_OPPOWatch3(标准版)">OPPOWatch3(标准版)<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="javascript:void">https://detail.zol.com.cn/1425/1424037/param.shtml</a></div><p>米表碎屏之后就，无法正常使用了。<br />OW3就把保护壳也买了🤕</p><h1 id="2-adb的使用"><a class="markdownIt-Anchor" href="#2-adb的使用"></a> 2. adb的使用</h1><h2 id="21-工具箱安装"><a class="markdownIt-Anchor" href="#21-工具箱安装"></a> 2.1 工具箱安装</h2><h3 id="下载地址"><a class="markdownIt-Anchor" href="#下载地址"></a> 下载地址</h3><hr /><h2 id="22-功能"><a class="markdownIt-Anchor" href="#22-功能"></a> 2.2 功能</h2><h3 id="221-安装应用"><a class="markdownIt-Anchor" href="#221-安装应用"></a> 2.2.1 安装应用</h3><h3 id="222-传输文件"><a class="markdownIt-Anchor" href="#222-传输文件"></a> 2.2.2 传输文件</h3><h3 id="223-屏幕dpi修改"><a class="markdownIt-Anchor" href="#223-屏幕dpi修改"></a> 2.2.3 屏幕dpi修改</h3><h3 id="224-输入法激活"><a class="markdownIt-Anchor" href="#224-输入法激活"></a> 2.2.4 输入法激活</h3><hr /><h2 id="23-推荐应用"><a class="markdownIt-Anchor" href="#23-推荐应用"></a> 2.3 推荐应用</h2><h3 id="231-日常休闲"><a class="markdownIt-Anchor" href="#231-日常休闲"></a> 2.3.1 日常休闲</h3><h3 id="232-娱乐放松"><a class="markdownIt-Anchor" href="#232-娱乐放松"></a> 2.3.2 娱乐放松</h3><h3 id="233-小型游戏"><a class="markdownIt-Anchor" href="#233-小型游戏"></a> 2.3.3 小型游戏</h3>]]></content>
+    <content type="html"><![CDATA[<p>玩机有风险，数据无价，请慎重选择。</p><h1 id="1-我的设备"><a class="markdownIt-Anchor" href="#1-我的设备"></a> 1. 我的设备</h1><div class='checkbox'><input type="radio" />            <p><a href="https://detail.zol.com.cn/1299/1298301/param.shtml">小米手表 MiWatch</a></p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p><a href="https://detail.zol.com.cn/1425/1424037/param.shtml">OPPOWatch3(标准版) OW3</a></p>            </div> using...<p>米表碎屏之后就，无法正常使用了。<br />OW3就把保护壳也买了🤕</p><h1 id="2-adb的使用"><a class="markdownIt-Anchor" href="#2-adb的使用"></a> 2. adb的使用</h1><p>Android 调试桥 (adb) 是一种功能多样的命令行工具，可让您与设备进行通信。adb 命令可用于执行各种设备操作，例如安装和调试应用。adb 提供对 Unix shell（可用来在设备上运行各种命令）的访问权限。</p><div class="note info simple"><p>简而言之就是,搭建一座与安卓设备联通的桥，实现许多操作。</p></div><h2 id="21-工具箱安装"><a class="markdownIt-Anchor" href="#21-工具箱安装"></a> 2.1 工具箱安装</h2><a class="tag-Link" target="_blank" href="[https://www.bilibili.com/video/BV1tM4y127nL/?spm_id_from=333.999.0.0&vd_source=22e6358ee1b36b0d77864339d916921a]">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/[https://www.bilibili.com/video/BV1tM4y127nL/?spm_id_from=333.999.0.0&vd_source=22e6358ee1b36b0d77864339d916921a].png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">[安卓手表adb工具箱]</div>            <div class="tag-link-sitename">[明风の岚]</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a><h3 id="下载地址"><a class="markdownIt-Anchor" href="#下载地址"></a> 下载地址</h3><p>工具箱链接：<br /><a href="https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox">https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox</a></p><hr /><h2 id="22-功能"><a class="markdownIt-Anchor" href="#22-功能"></a> 2.2 功能</h2><h3 id="221-安装应用"><a class="markdownIt-Anchor" href="#221-安装应用"></a> 2.2.1 安装应用</h3><h3 id="222-传输文件"><a class="markdownIt-Anchor" href="#222-传输文件"></a> 2.2.2 传输文件</h3><h3 id="223-屏幕dpi修改"><a class="markdownIt-Anchor" href="#223-屏幕dpi修改"></a> 2.2.3 屏幕dpi修改</h3><h3 id="224-输入法激活"><a class="markdownIt-Anchor" href="#224-输入法激活"></a> 2.2.4 输入法激活</h3><hr /><h2 id="23-推荐应用"><a class="markdownIt-Anchor" href="#23-推荐应用"></a> 2.3 推荐应用</h2><h3 id="231-日常休闲"><a class="markdownIt-Anchor" href="#231-日常休闲"></a> 2.3.1 日常休闲</h3><h3 id="232-娱乐放松"><a class="markdownIt-Anchor" href="#232-娱乐放松"></a> 2.3.2 娱乐放松</h3><h3 id="233-小型游戏"><a class="markdownIt-Anchor" href="#233-小型游戏"></a> 2.3.3 小型游戏</h3>]]></content>
     
     
     <summary type="html">安卓手表的正确用法</summary>
@@ -188,9 +209,9 @@
     <category term="游戏" scheme="https://woojano.top/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="🕹️王者" scheme="https://woojano.top/tags/%F0%9F%95%B9%EF%B8%8F%E7%8E%8B%E8%80%85/"/>
-    
     <category term="🌞生活" scheme="https://woojano.top/tags/%F0%9F%8C%9E%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="🕹️王者" scheme="https://woojano.top/tags/%F0%9F%95%B9%EF%B8%8F%E7%8E%8B%E8%80%85/"/>
     
   </entry>
   
