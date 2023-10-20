@@ -137,27 +137,6 @@ function doStuff() {
             lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/I%27ll%20Do%20It.lrc",
             },
             {
-            name: "counter attack(钢琴经典版)",
-            artist: "老伙计",
-            url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/counter%20attack%28%E9%92%A2%E7%90%B4%E7%BB%8F%E5%85%B8%E7%89%88%29.mp3",
-            cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/counter%20attack%28%E9%92%A2%E7%90%B4%E7%BB%8F%E5%85%B8%E7%89%88%29.jpg",
-            lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/counter%20attack%28%E9%92%A2%E7%90%B4%E7%BB%8F%E5%85%B8%E7%89%88%29.lrc",
-            },
-            {
-            name: "Dehors（x0.9）",
-            artist: "WenN_uo",
-            url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/Dehors%EF%BC%88x0.9%EF%BC%89.mp3",
-            cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/Dehors%EF%BC%88x0.9%EF%BC%89.jpg",
-            lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/Dehors%EF%BC%88x0.9%EF%BC%89.lrc",
-            },
-            {
-            name: "Ass Like That",
-            artist: "Psaxxx",
-            url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/Ass%20Like%20That.mp3",
-            cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/Ass%20Like%20That.jpg",
-            lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/Ass%20Like%20That.lrc",
-            },
-            {
             name: "Baby don't cry（原唱：EXO M）",
             artist: "金渽耶",
             url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/Baby%C2%A0don%27t%C2%A0cry%EF%BC%88%E5%8E%9F%E5%94%B1%EF%BC%9AEXO%C2%A0M%EF%BC%89.mp3",
@@ -172,25 +151,11 @@ function doStuff() {
             lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%88%E5%A5%B3%E5%A3%B0%E7%89%88%EF%BC%89.lrc",
             },
             {
-            name: "Starboy (0.8x)",
-            artist: "昱",
-            url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/Starboy%20%280.8x%29.mp3",
-            cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/Starboy%20%280.8x%29.jpg",
-            lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/Starboy%20%280.8x%29.lrc",
-            },
-            {
             name: "恶作剧",
             artist: "Sasablue",
             url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/%E6%81%B6%E4%BD%9C%E5%89%A7.mp3",
             cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/%E6%81%B6%E4%BD%9C%E5%89%A7.jpg",
             lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/%E6%81%B6%E4%BD%9C%E5%89%A7.lrc",
-            },
-            {
-            name: "伯虎说 (feat.唐伯虎Annie)",
-            artist: "伯爵Johnny / 唐伯虎Annie",
-            url: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/music/%E4%BC%AF%E8%99%8E%E8%AF%B4%20%28feat.%E5%94%90%E4%BC%AF%E8%99%8EAnnie%29.mp3",
-            cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/%E4%BC%AF%E8%99%8E%E8%AF%B4%20%28feat.%E5%94%90%E4%BC%AF%E8%99%8EAnnie%29.jpg",
-            lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/%E4%BC%AF%E8%99%8E%E8%AF%B4%20%28feat.%E5%94%90%E4%BC%AF%E8%99%8EAnnie%29.lrc",
             },
             {
             name: "Letting Go",
