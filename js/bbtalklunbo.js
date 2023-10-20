@@ -1,8 +1,8 @@
 //bbtalkLunboer v2.0 By Ariasaka
 AV.init({
-    appId: "pqRQnznmTLlFu4zftjlzSEE6-gzGzoHsz",
-    appKey: "ryRnFHIiyIihlROCGmUcw9mE",
-    serverURL: "pqrqnznm.lc-cn-n1-ayaqc.com", //改成自己的，在设置->域名绑定
+    appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
+    appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
+    serverURL: "https://ekos5yqw.api.lncldglobal.com", //改成自己的，在设置->域名绑定
 });
 function lunbo(){
     var speaks=[];
