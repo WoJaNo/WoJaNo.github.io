@@ -9,7 +9,7 @@ var _AV = AV,
 AV.init({
   appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
   appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
-  serverURL: "https://ekos5yqw.api.lncldglobal.com"
+  serverURL: "http://bbtalk.woojano.top/"
 });
 var speaks = [];
 var query = new AV.Query('content');

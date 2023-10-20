@@ -2,7 +2,7 @@
 AV.init({
     appId: "eKOS5YQwOddSnkGCuZohS8t2-MdYXbMMI",
     appKey: "Vca9i78PG3Rje7x8jwHSCy4Z",
-    serverURL: "https://ekos5yqw.api.lncldglobal.com", //改成自己的，在设置->域名绑定
+    serverURL: "http://bbtalk.woojano.top/", //改成自己的，在设置->域名绑定
 });
 function lunbo(){
     var speaks=[];
