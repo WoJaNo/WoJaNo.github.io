@@ -80,6 +80,33 @@
     
     
     <entry>
+      <title>QQ精简嵌入模块版v8.9.15</title>
+      <link href="/posts/c0016f87/"/>
+      <url>/posts/c0016f87/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是吴某的第6篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第6篇文章"></a> 这是吴某的第⑥篇文章</h2><hr /><h2 id="11软件版本89159425"><a class="markdownIt-Anchor" href="#11软件版本89159425"></a> 1.1【软件版本】：8.9.15.9425</h2><h4 id="版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"><a class="markdownIt-Anchor" href="#版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"></a> 【版本说明】：精简了虚幻引擎4，内置了QA,小彩豆，QTool，XAutoDaily，省电模块（未适配）。</h4><h4 id="模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"><a class="markdownIt-Anchor" href="#模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"></a> 模块具有<code>不稳定性</code>，可能导致部分登陆无法跳转QQ，也存在<code>冻结</code>的情况</h4><h4 id="ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"><a class="markdownIt-Anchor" href="#ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"></a> ps：初次安装需卸载官方版本，初次使用qq出现黑屏白屏属于正常现象，之后使用一般不会出现。</h4><h4 id="省点模块最新版未适配8915等待作者适配介意可继续使用8913"><a class="markdownIt-Anchor" href="#省点模块最新版未适配8915等待作者适配介意可继续使用8913"></a> 省点模块最新版未适配8.9.15（等待作者适配），介意可继续使用8.9.13。</h4><hr /><h2 id="21-详细模块内容"><a class="markdownIt-Anchor" href="#21-详细模块内容"></a> 2.1 详细模块内容</h2><h3 id="22-xautodaily"><a class="markdownIt-Anchor" href="#22-xautodaily"></a> 2.2  XAutoDaily</h3><blockquote><p><strong>XAutoDaily是一款更偏向QQ自动化打卡方面的模块。</strong></p></blockquote><ul><li><strong>模块功能如下</strong></li></ul><table><thead><tr><th style="text-align:left">功能</th><th style="text-align:left">介绍</th></tr></thead><tbody><tr><td style="text-align:left">自动签到</td><td style="text-align:left">群签到，早晚卡（可自选群聊）</td></tr><tr><td style="text-align:left">QQ会员签到</td><td style="text-align:left">会员签到加速</td></tr><tr><td style="text-align:left">QQ音乐绿钻签到</td><td style="text-align:left">绿钻签到</td></tr><tr><td style="text-align:left">腾讯视频会员签到</td><td style="text-align:left">腾讯视频签到</td></tr><tr><td style="text-align:left">好友自动续火</td><td style="text-align:left">定时发送好友信息（可自选好友）</td></tr><tr><td style="text-align:left">QQ空间点赞</td><td style="text-align:left">第一时间给好友点赞（可自选好友）</td></tr><tr><td style="text-align:left">QQ名片自动赞</td><td style="text-align:left">定时给好友名片点赞（可自选好友）</td></tr><tr><td style="text-align:left">好友字符抽卡</td><td style="text-align:left">每日抽卡（可自选好友）</td></tr></tbody></table><h3 id="23-qaqauxiliary"><a class="markdownIt-Anchor" href="#23-qaqauxiliary"></a> 2.3 QA(QAuxiliary)</h3><blockquote><p><strong>QA是一款多功能辅助模块，页面简洁功能多样</strong></p></blockquote><table><thead><tr><th style="text-align:left">净化设置</th><th style="text-align:center">辅助功能</th></tr></thead><tbody><tr><td style="text-align:left">主页</td><td style="text-align:center">聊天消息</td></tr><tr><td style="text-align:left">侧滑栏</td><td style="text-align:center">文件储存</td></tr><tr><td style="text-align:left">聊天界面</td><td style="text-align:center">好友资料卡</td></tr><tr><td style="text-align:left">群聊</td><td style="text-align:center">通知设置</td></tr><tr><td style="text-align:left">资料卡</td><td style="text-align:center">实验娱乐功能（不稳定）</td></tr></tbody></table><h3 id="24-小彩豆与qtool"><a class="markdownIt-Anchor" href="#24-小彩豆与qtool"></a> 2.4 小彩豆与QTool</h3><blockquote><p><strong>这两个模块功能相似所以放在一起，与QA相比可以使用Java类脚本，和自动抢红包类（易冻结）</strong></p></blockquote><ul><li><strong>详情如图</strong></li></ul><p>小彩豆:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac0124e3.jpg" alt="mmexport1668658951363.jpg" /></p><p>QTool:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac04c855.jpg" alt="mmexport1668658957421.jpg" /></p><h2 id="31结尾说明"><a class="markdownIt-Anchor" href="#31结尾说明"></a> 3.1结尾说明</h2><ul><li><h4 id="开源模块绿色安全-以上只为功能部分说明详情请以软件为主"><a class="markdownIt-Anchor" href="#开源模块绿色安全-以上只为功能部分说明详情请以软件为主"></a> 开源模块，绿色安全。以上只为功能部分说明详情请以软件为主。</h4></li><li><h4 id="下载链接"><a class="markdownIt-Anchor" href="#下载链接"></a> 下载链接:</h4></li></ul><blockquote><p><a href="https://pan.quark.cn/s/507c01ed50bf">https://pan.quark.cn/s/507c01ed50bf</a></p></blockquote><h4 id="仅供分享部分问题联系站长解决联系方式点我联系站长"><a class="markdownIt-Anchor" href="#仅供分享部分问题联系站长解决联系方式点我联系站长"></a> 仅供分享，部分问题联系站长解决，联系方式：<a href="https://love.woojano.top/about/">点我联系站长</a></h4><hr />]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ✨QQ美化 </tag>
+            
+            <tag> 💡软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>天空影视全网免费看</title>
       <link href="/posts/5e5bc735/"/>
       <url>/posts/5e5bc735/</url>
@@ -96,9 +123,34 @@
       
         <tags>
             
+            <tag> 💡软件 </tag>
+            
             <tag> 📽️影视 </tag>
             
-            <tag> 💡软件 </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我与我的安卓手表</title>
+      <link href="/posts/73e14eca/"/>
+      <url>/posts/73e14eca/</url>
+      
+        <content type="html"><![CDATA[<p>玩机有风险，数据无价，请慎重选择。</p><h1 id="1-我的设备"><a class="markdownIt-Anchor" href="#1-我的设备"></a> 1. 我的设备</h1><div class='checkbox'><input type="radio" />            <p><a href="https://detail.zol.com.cn/1299/1298301/param.shtml">小米手表 MiWatch</a></p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p><a href="https://detail.zol.com.cn/1425/1424037/param.shtml">OPPOWatch3(标准版) OW3</a></p>            </div> using...<p>米表碎屏之后就，无法正常使用了。<br />OW3就把保护壳也买了🤕</p><h1 id="2-adb的使用"><a class="markdownIt-Anchor" href="#2-adb的使用"></a> 2. adb的使用</h1><p>Android 调试桥 (adb) 是一种功能多样的命令行工具，可让您与设备进行通信。adb 命令可用于执行各种设备操作，例如安装和调试应用。adb 提供对 Unix shell（可用来在设备上运行各种命令）的访问权限。</p><div class="note info simple"><p>简而言之就是,搭建一座与安卓设备联通的桥，实现许多操作。</p></div><h2 id="21-工具箱安装"><a class="markdownIt-Anchor" href="#21-工具箱安装"></a> 2.1 工具箱安装</h2><a class="tag-Link" target="_blank" href="https://www.bilibili.com/video/BV1tM4y127nL/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/www.bilibili.com/video/BV1tM4y127nL/.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">安卓手表adb工具箱</div>            <div class="tag-link-sitename">明风の岚</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a><h3 id="下载地址"><a class="markdownIt-Anchor" href="#下载地址"></a> 下载地址</h3><p>工具箱链接：<br /><a href="https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox">https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox</a></p><hr /><h2 id="22-功能"><a class="markdownIt-Anchor" href="#22-功能"></a> 2.2 功能</h2><h3 id="221-安装应用"><a class="markdownIt-Anchor" href="#221-安装应用"></a> 2.2.1 安装应用</h3><h3 id="222-传输文件"><a class="markdownIt-Anchor" href="#222-传输文件"></a> 2.2.2 传输文件</h3><h3 id="223-屏幕dpi修改"><a class="markdownIt-Anchor" href="#223-屏幕dpi修改"></a> 2.2.3 屏幕dpi修改</h3><h3 id="224-输入法激活"><a class="markdownIt-Anchor" href="#224-输入法激活"></a> 2.2.4 输入法激活</h3><hr /><h2 id="23-推荐应用"><a class="markdownIt-Anchor" href="#23-推荐应用"></a> 2.3 推荐应用</h2><h3 id="231-日常休闲"><a class="markdownIt-Anchor" href="#231-日常休闲"></a> 2.3.1 日常休闲</h3><h3 id="232-娱乐放松"><a class="markdownIt-Anchor" href="#232-娱乐放松"></a> 2.3.2 娱乐放松</h3><h3 id="233-小型游戏"><a class="markdownIt-Anchor" href="#233-小型游戏"></a> 2.3.3 小型游戏</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 📓教程 </tag>
             
         </tags>
       
@@ -161,31 +213,6 @@
     
     
     <entry>
-      <title>我与我的安卓手表</title>
-      <link href="/posts/73e14eca/"/>
-      <url>/posts/73e14eca/</url>
-      
-        <content type="html"><![CDATA[<p>玩机有风险，数据无价，请慎重选择。</p><h1 id="1-我的设备"><a class="markdownIt-Anchor" href="#1-我的设备"></a> 1. 我的设备</h1><div class='checkbox'><input type="radio" />            <p><a href="https://detail.zol.com.cn/1299/1298301/param.shtml">小米手表 MiWatch</a></p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p><a href="https://detail.zol.com.cn/1425/1424037/param.shtml">OPPOWatch3(标准版) OW3</a></p>            </div> using...<p>米表碎屏之后就，无法正常使用了。<br />OW3就把保护壳也买了🤕</p><h1 id="2-adb的使用"><a class="markdownIt-Anchor" href="#2-adb的使用"></a> 2. adb的使用</h1><p>Android 调试桥 (adb) 是一种功能多样的命令行工具，可让您与设备进行通信。adb 命令可用于执行各种设备操作，例如安装和调试应用。adb 提供对 Unix shell（可用来在设备上运行各种命令）的访问权限。</p><div class="note info simple"><p>简而言之就是,搭建一座与安卓设备联通的桥，实现许多操作。</p></div><h2 id="21-工具箱安装"><a class="markdownIt-Anchor" href="#21-工具箱安装"></a> 2.1 工具箱安装</h2><a class="tag-Link" target="_blank" href="https://www.bilibili.com/video/BV1tM4y127nL/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/www.bilibili.com/video/BV1tM4y127nL/.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">安卓手表adb工具箱</div>            <div class="tag-link-sitename">明风の岚</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a><h3 id="下载地址"><a class="markdownIt-Anchor" href="#下载地址"></a> 下载地址</h3><p>工具箱链接：<br /><a href="https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox">https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox</a></p><hr /><h2 id="22-功能"><a class="markdownIt-Anchor" href="#22-功能"></a> 2.2 功能</h2><h3 id="221-安装应用"><a class="markdownIt-Anchor" href="#221-安装应用"></a> 2.2.1 安装应用</h3><h3 id="222-传输文件"><a class="markdownIt-Anchor" href="#222-传输文件"></a> 2.2.2 传输文件</h3><h3 id="223-屏幕dpi修改"><a class="markdownIt-Anchor" href="#223-屏幕dpi修改"></a> 2.2.3 屏幕dpi修改</h3><h3 id="224-输入法激活"><a class="markdownIt-Anchor" href="#224-输入法激活"></a> 2.2.4 输入法激活</h3><hr /><h2 id="23-推荐应用"><a class="markdownIt-Anchor" href="#23-推荐应用"></a> 2.3 推荐应用</h2><h3 id="231-日常休闲"><a class="markdownIt-Anchor" href="#231-日常休闲"></a> 2.3.1 日常休闲</h3><h3 id="232-娱乐放松"><a class="markdownIt-Anchor" href="#232-娱乐放松"></a> 2.3.2 娱乐放松</h3><h3 id="233-小型游戏"><a class="markdownIt-Anchor" href="#233-小型游戏"></a> 2.3.3 小型游戏</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 📓教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>站长的p话</title>
       <link href="/posts/66f05020/"/>
       <url>/posts/66f05020/</url>
@@ -205,33 +232,6 @@
             <tag> 🌞生活 </tag>
             
             <tag> 🕹️王者 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>QQ精简嵌入模块版v8.9.15</title>
-      <link href="/posts/c0016f87/"/>
-      <url>/posts/c0016f87/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是吴某的第6篇文章"><a class="markdownIt-Anchor" href="#这是吴某的第6篇文章"></a> 这是吴某的第⑥篇文章</h2><hr /><h2 id="11软件版本89159425"><a class="markdownIt-Anchor" href="#11软件版本89159425"></a> 1.1【软件版本】：8.9.15.9425</h2><h4 id="版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"><a class="markdownIt-Anchor" href="#版本说明精简了虚幻引擎4内置了qa小彩豆qtoolxautodaily省电模块未适配"></a> 【版本说明】：精简了虚幻引擎4，内置了QA,小彩豆，QTool，XAutoDaily，省电模块（未适配）。</h4><h4 id="模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"><a class="markdownIt-Anchor" href="#模块具有不稳定性可能导致部分登陆无法跳转qq也存在冻结的情况"></a> 模块具有<code>不稳定性</code>，可能导致部分登陆无法跳转QQ，也存在<code>冻结</code>的情况</h4><h4 id="ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"><a class="markdownIt-Anchor" href="#ps初次安装需卸载官方版本初次使用qq出现黑屏白屏属于正常现象之后使用一般不会出现"></a> ps：初次安装需卸载官方版本，初次使用qq出现黑屏白屏属于正常现象，之后使用一般不会出现。</h4><h4 id="省点模块最新版未适配8915等待作者适配介意可继续使用8913"><a class="markdownIt-Anchor" href="#省点模块最新版未适配8915等待作者适配介意可继续使用8913"></a> 省点模块最新版未适配8.9.15（等待作者适配），介意可继续使用8.9.13。</h4><hr /><h2 id="21-详细模块内容"><a class="markdownIt-Anchor" href="#21-详细模块内容"></a> 2.1 详细模块内容</h2><h3 id="22-xautodaily"><a class="markdownIt-Anchor" href="#22-xautodaily"></a> 2.2  XAutoDaily</h3><blockquote><p><strong>XAutoDaily是一款更偏向QQ自动化打卡方面的模块。</strong></p></blockquote><ul><li><strong>模块功能如下</strong></li></ul><table><thead><tr><th style="text-align:left">功能</th><th style="text-align:left">介绍</th></tr></thead><tbody><tr><td style="text-align:left">自动签到</td><td style="text-align:left">群签到，早晚卡（可自选群聊）</td></tr><tr><td style="text-align:left">QQ会员签到</td><td style="text-align:left">会员签到加速</td></tr><tr><td style="text-align:left">QQ音乐绿钻签到</td><td style="text-align:left">绿钻签到</td></tr><tr><td style="text-align:left">腾讯视频会员签到</td><td style="text-align:left">腾讯视频签到</td></tr><tr><td style="text-align:left">好友自动续火</td><td style="text-align:left">定时发送好友信息（可自选好友）</td></tr><tr><td style="text-align:left">QQ空间点赞</td><td style="text-align:left">第一时间给好友点赞（可自选好友）</td></tr><tr><td style="text-align:left">QQ名片自动赞</td><td style="text-align:left">定时给好友名片点赞（可自选好友）</td></tr><tr><td style="text-align:left">好友字符抽卡</td><td style="text-align:left">每日抽卡（可自选好友）</td></tr></tbody></table><h3 id="23-qaqauxiliary"><a class="markdownIt-Anchor" href="#23-qaqauxiliary"></a> 2.3 QA(QAuxiliary)</h3><blockquote><p><strong>QA是一款多功能辅助模块，页面简洁功能多样</strong></p></blockquote><table><thead><tr><th style="text-align:left">净化设置</th><th style="text-align:center">辅助功能</th></tr></thead><tbody><tr><td style="text-align:left">主页</td><td style="text-align:center">聊天消息</td></tr><tr><td style="text-align:left">侧滑栏</td><td style="text-align:center">文件储存</td></tr><tr><td style="text-align:left">聊天界面</td><td style="text-align:center">好友资料卡</td></tr><tr><td style="text-align:left">群聊</td><td style="text-align:center">通知设置</td></tr><tr><td style="text-align:left">资料卡</td><td style="text-align:center">实验娱乐功能（不稳定）</td></tr></tbody></table><h3 id="24-小彩豆与qtool"><a class="markdownIt-Anchor" href="#24-小彩豆与qtool"></a> 2.4 小彩豆与QTool</h3><blockquote><p><strong>这两个模块功能相似所以放在一起，与QA相比可以使用Java类脚本，和自动抢红包类（易冻结）</strong></p></blockquote><ul><li><strong>详情如图</strong></li></ul><p>小彩豆:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac0124e3.jpg" alt="mmexport1668658951363.jpg" /></p><p>QTool:</p><p><img src="https://bu.dusays.com/2023/06/05/647d4ac04c855.jpg" alt="mmexport1668658957421.jpg" /></p><h2 id="31结尾说明"><a class="markdownIt-Anchor" href="#31结尾说明"></a> 3.1结尾说明</h2><ul><li><h4 id="开源模块绿色安全-以上只为功能部分说明详情请以软件为主"><a class="markdownIt-Anchor" href="#开源模块绿色安全-以上只为功能部分说明详情请以软件为主"></a> 开源模块，绿色安全。以上只为功能部分说明详情请以软件为主。</h4></li><li><h4 id="下载链接"><a class="markdownIt-Anchor" href="#下载链接"></a> 下载链接:</h4></li></ul><blockquote><p><a href="https://pan.quark.cn/s/507c01ed50bf">https://pan.quark.cn/s/507c01ed50bf</a></p></blockquote><h4 id="仅供分享部分问题联系站长解决联系方式点我联系站长"><a class="markdownIt-Anchor" href="#仅供分享部分问题联系站长解决联系方式点我联系站长"></a> 仅供分享，部分问题联系站长解决，联系方式：<a href="https://love.woojano.top/about/">点我联系站长</a></h4><hr />]]></content>
-      
-      
-      <categories>
-          
-          <category> 分享 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 💡软件 </tag>
-            
-            <tag> ✨QQ美化 </tag>
             
         </tags>
       
