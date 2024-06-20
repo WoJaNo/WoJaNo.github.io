@@ -11,13 +11,6 @@ function doStuff() {
     if(flag){
         ap.list.add([{
             {
-            name: "防止不加载第一首 爱歌 的歌词",
-            artist: "0",
-            url: "0",
-            cover: "0",
-            lrc: "0",
-            },
-            {
             name: "他只是经过",
             artist: "h3R3、高旭",
             url: "https://jsd.onmicrosoft.cn/npm/woojanoaplayer@1.0.1/music/h3R3%E3%80%81%E9%AB%98%E6%97%AD%20-%20%E4%BB%96%E5%8F%AA%E6%98%AF%E7%BB%8F%E8%BF%87.mp3",
@@ -65,7 +58,7 @@ function doStuff() {
 document.addEventListener('DOMContentLoaded', (e) => {
     doStuff();
 })
-      
+
         ap.list.remove(0);
         ap.lrc.hide();
         ap.setMode("normal");
