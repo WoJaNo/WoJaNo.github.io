@@ -9,15 +9,14 @@ function doStuff() {
         return;
     }
     if(flag){
-        ap.list.add
+        ap.list.add([{
             {
             name: "防止不加载第一首 爱歌 的歌词",
             artist: "0",
             url: "0",
             cover: "0",
             lrc: "0",
-                },
-                ap.list.add([
+            },
             {
             name: "他只是经过",
             artist: "h3R3、高旭",
@@ -60,9 +59,13 @@ function doStuff() {
             cover: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/pic/%E9%98%BFYueYue%E3%80%81%E5%88%98%E5%85%86%E5%AE%87%20-%20%E5%86%AC%E7%9C%A0.jpg",
             lrc: "https://jsd.onmicrosoft.cn/npm/datawoojano@1.0.8/lyric/%E9%98%BFYueYue%E3%80%81%E5%88%98%E5%85%86%E5%AE%87%20-%20%E5%86%AC%E7%9C%A0.lrc",
             },
-        ])
-        
-        
+        ]);
+    }
+}
+document.addEventListener('DOMContentLoaded', (e) => {
+    doStuff();
+})
+      
         ap.list.remove(0);
         ap.lrc.hide();
         ap.setMode("normal");
