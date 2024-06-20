@@ -318,6 +318,13 @@
   </url>
   
   <url>
+    <loc>https://woojano.top/tags/%F0%9F%93%93%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://woojano.top/tags/%F0%9F%93%BD%EF%B8%8F%E5%BD%B1%E8%A7%86/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -333,13 +340,6 @@
   
   <url>
     <loc>https://woojano.top/tags/%F0%9F%93%9A%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://woojano.top/tags/%F0%9F%93%93%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,14 +376,14 @@
   </url>
   
   <url>
-    <loc>https://woojano.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://woojano.top/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://woojano.top/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://woojano.top/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
